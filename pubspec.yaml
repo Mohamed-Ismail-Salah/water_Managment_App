@@ -1,0 +1,80 @@
+name: water_managment
+description: A new Flutter project.
+
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+
+dependencies:
+  flutter_screenutil:
+  shared_preferences:
+  provider:
+  rolling_switch:
+  flutter_zoom_drawer:
+  loading_animations:
+  bottom_bar_matu:
+  auto_animated:
+  image:
+  file_picker:
+  tflite: ^1.1.2
+  csv:
+  path_provider:
+  open_file:
+  tflite_flutter:
+  image_picker:
+  collection: ^1.15.0
+  logger: ^1.0.0
+  tflite_flutter_helper:
+      git:
+        url: https://github.com/filofan1/tflite_flutter_helper.git
+        ref: 783f15e5a87126159147d8ea30b98eea9207ac70
+  flutter_native_splash:
+
+
+
+
+  flutter:
+    sdk: flutter
+flutter_native_splash:
+  color: "#000000"
+  image: assets/images/logo.png
+  android: true
+  ios: true
+
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+
+flutter:
+  fonts:
+    - family: OleoScript-Regular
+      fonts:
+        - asset: assets/fonts/OleoScript-Regular.ttf
+    - family: Khand-Regular
+      fonts:
+        - asset: assets/fonts/Khand-Regular.ttf
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/modles/rain/
+    - assets/modles/flood/classification/
+    - assets/modles/waterQuality/
+    - assets/modles/waterMeters/
+    - assets/modles/leak/branched/
+    - assets/modles/leak/looped/
+    - assets/modles/waterTreatment/
