@@ -8,7 +8,7 @@
 |----------------------------|----------------------------|----------------------------|
 | ![](https://github.com/Mohamed-Ismail-Salah/water_Managment_App/assets/109285951/c317fb67-252d-457f-afc7-260382a653c9) | ![](https://github.com/Mohamed-Ismail-Salah/water_Managment_App/assets/109285951/e5e50760-0018-4a1a-a5b5-d89b73952d5c) | ![](https://github.com/Mohamed-Ismail-Salah/water_Managment_App/assets/109285951/e53681d2-490a-4470-8a69-96e2dc72859d) |
 | ![](https://github.com/Mohamed-Ismail-Salah/water_Managment_App/assets/109285951/bf9ecad2-d680-4594-9dfc-57c3d1aae32d) | ![](https://github.com/Mohamed-Ismail-Salah/water_Managment_App/assets/109285951/ac8d5fa6-570a-4b5a-ba5e-706ecbd07aff) | ![](https://github.com/Mohamed-Ismail-Salah/water_Managment_App/assets/109285951/61d8d8d1-8d4c-4977-b528-c723f0e7acf8) |
-| ![](https://github.com/Mohamed-Ismail-Salah/water_Managment_App/assets/109285951/caa4b229-e53f-40cb-bcff-ad00aa963160) |                             |                              |
+ 
 
 ## Introduction
 Our application is called Smart Water Management, and it is a state-of-the-art project developed using Flutter and powered by advanced Deep Learning techniques. The primary goal of this app is to revolutionize flood detection, rain prediction, water quality assessment, and leak detection. We have integrated pre-trained deep learning models to ensure accurate classification and forecasting.
