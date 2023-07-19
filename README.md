@@ -4,6 +4,15 @@
 |----------------------------|----------------------------|----------------------------|
 | ![Flood Detection](https://github.com/Mohamed-Ismail-Salah/water_Managment_App/assets/109285951/1e47ae12-59ea-46c0-b4b1-d16e0cdccf9f) | ![Rain Prediction](https://github.com/Mohamed-Ismail-Salah/water_Managment_App/assets/109285951/11039b2b-0111-4bb5-aaa8-0e2ba6c479c4) | ![Water Quality Assessment](https://github.com/Mohamed-Ismail-Salah/water_Managment_App/assets/109285951/71e385a7-e37c-4459-b7ac-097ba4e60b39) |
 
+![4243ec7d-5918-46ee-8482-e9f584e383ea](https://github.com/Mohamed-Ismail-Salah/water_Managment_App/assets/109285951/c317fb67-252d-457f-afc7-260382a653c9)
+![834263d6-b8c3-459a-9ed6-9f29754bcfb9](https://github.com/Mohamed-Ismail-Salah/water_Managment_App/assets/109285951/e5e50760-0018-4a1a-a5b5-d89b73952d5c)
+![WhatsApp Image 2023-07-19 at 9 34 33 PM](https://github.com/Mohamed-Ismail-Salah/water_Managment_App/assets/109285951/e53681d2-490a-4470-8a69-96e2dc72859d)
+![WhatsApp Image 2023-07-19 at 9 34 32 PM](https://github.com/Mohamed-Ismail-Salah/water_Managment_App/assets/109285951/bf9ecad2-d680-4594-9dfc-57c3d1aae32d)
+![WhatsApp Image 2023-07-19 at 9 34 32 PM (1)](https://github.com/Mohamed-Ismail-Salah/water_Managment_App/assets/109285951/ac8d5fa6-570a-4b5a-ba5e-706ecbd07aff)
+![WhatsApp Image 2023-07-19 at 9 34 30 PM](https://github.com/Mohamed-Ismail-Salah/water_Managment_App/assets/109285951/61d8d8d1-8d4c-4977-b528-c723f0e7acf8)
+
+![aa42ebd1-a19c-488a-a869-0ffdf1eb6f9f](https://github.com/Mohamed-Ismail-Salah/water_Managment_App/assets/109285951/caa4b229-e53f-40cb-bcff-ad00aa963160)
+
 ## Introduction
 
 Our application is called Smart Water Management, and it is a state-of-the-art project developed using Flutter and powered by advanced Deep Learning techniques. The primary goal of this app is to revolutionize flood detection, rain prediction, water quality assessment, and leak detection. We have integrated pre-trained deep learning models to ensure accurate classification and forecasting.
