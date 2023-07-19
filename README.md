@@ -1,6 +1,10 @@
 # Smart Water Management  
+![1b5f5f01-6623-4df5-bffd-324f63d3847d](https://github.com/Mohamed-Ismail-Salah/water_Managment_App/assets/109285951/1e47ae12-59ea-46c0-b4b1-d16e0cdccf9f)
 
-![App Image](image_link.png) (if available)
+ ![8e42a0fa-88d7-4109-a2a1-e0e1d03027eb](https://github.com/Mohamed-Ismail-Salah/water_Managment_App/assets/109285951/11039b2b-0111-4bb5-aaa8-0e2ba6c479c4)
+
+![7ebd26b1-3939-4c92-b46a-fdbd11d9a7bf](https://github.com/Mohamed-Ismail-Salah/water_Managment_App/assets/109285951/71e385a7-e37c-4459-b7ac-097ba4e60b39)
+
 
 ## Introduction
 
