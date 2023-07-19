@@ -18,35 +18,4 @@ Our application is called Smart Water Management, and it is a state-of-the-art p
 
 5. **Leak Detection:** The app efficiently detects and classifies water leaks by enabling users to upload CSV files containing water consumption data.
 
-## Installation and Usage
-
-1. To experience Smart Water Management, download and install the application on your Android or iOS smartphone. You can use the provided download links (if available) to access the app.
-
-2. Upon installation, Smart Water Management offers a user-friendly and intuitive interface, granting easy access to all the powerful features.
-
-## Technical Requirements
-
-- Smart Water Management requires a smartphone running Android or iOS.
-
-## Contributions
-
-We warmly welcome contributions from developers passionate about water management and AI technology. If you wish to contribute to the development of Smart Water Management, please feel free to open a pull request. Your contributions will be carefully reviewed and appreciated.
-
-## Issues and Support
-
-If you encounter any issues while using the app or have any questions or suggestions, please don't hesitate to open an issue (link to the project's issue page if available).
-
-## License
-
-This project is licensed under the [License Name] (place the license name here, such as MIT License, Apache License, etc.).
-
-(C) [Year] [Your Name or Company], All Rights Reserved.
-
----
-
-The content above provides an informative and concise description of the Smart Water Management app. Please include this in your resume or CV, showcasing your expertise in developing this advanced application for water management using AI technologies.
-
- 
- 
-
  
