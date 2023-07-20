@@ -23,5 +23,7 @@ This is a smart water management application, which is a recent project develope
 
 3. **Replenishing the amount of energy and oxygen for water purification:** The application receives CSV files with water-related information in order to reach the percentage of oxygen needed for effective water treatment. And the amount of energy required to process it
 
-4. **Water Quality Assessment:** By analyzing water quality data stored in CSV files, Smart Water Management offers comprehensive evaluations 
-
+4. **Water Quality Assessment:** By analyzing the elements in the water stored in the CSV files, the application can know the quality of the water and its validity.
+   
+5. **Reading water meters** Where it uploads images of the water meter for use, and the application can identify the meter reading.
+6. **Awareness of the importance of preserving water** The application displays some important information about the importance of preserving water
